@@ -337,4 +337,4 @@ Built for **Hackyard** · Theme: *In-Flight Hospitality & Dietary Intelligence*
 
 ---
 
-<sub>SkyChain supports crew decisions. It does not guarantee allergen-free meals or environments.</sub>
+<sub>Sky-Plate supports crew decisions. It does not guarantee allergen-free meals or environments.</sub>
