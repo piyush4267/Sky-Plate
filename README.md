@@ -333,7 +333,7 @@ Catering planning vendors such as **Paxia, gategroup and LSG** already cover cat
 | Anshpreet Singh | Frontend (crew and ops) |
 | Akshat Bansal | Passenger experience, integration and demo |
 
-Built for **<Hackyard>** · Theme: *In-Flight Hospitality & Dietary Intelligence*
+Built for **Hackyard** · Theme: *In-Flight Hospitality & Dietary Intelligence*
 
 ---
 
