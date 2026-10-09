@@ -50,7 +50,7 @@ The result is operational liability and real medical risk at 35,000 feet, where 
 
 ## Our Solution
 
-SkyChain is a **Dietary Fulfillment Chain**. It is *not* a meal-booking app and *not* a catering forecaster. It tracks every passenger's dietary need through eight stages and raises a specific, actionable alert whenever a step fails.
+Skyplate is a **Dietary Fulfillment Chain**. It is *not* a meal-booking app and *not* a catering forecaster. It tracks every passenger's dietary need through eight stages and raises a specific, actionable alert whenever a step fails.
 
 ```
 DECLARED → VALIDATED → MATCHED → CATERING_CONFIRMED → LOADED → CREW_BRIEFED → SERVED → CLOSED
@@ -59,7 +59,7 @@ DECLARED → VALIDATED → MATCHED → CATERING_CONFIRMED → LOADED → CREW_BR
 
 Every transition is an immutable, timestamped audit event, so the full story of each passenger's meal can be replayed.
 
-## What Makes SkyChain Different
+## What Makes Skyplate Different
 
 | Differentiator | What it means |
 |---|---|
