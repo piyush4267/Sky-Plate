@@ -12,6 +12,7 @@
 
 <!-- Add a hero screenshot or GIF of the crew seat map here -->
 <!-- ![SkyChain crew app](docs/screenshots/crew-seatmap.png) -->
+- [Presentation Slide of SkyPlate](https://drive.google.com/file/d/1zW2-51Lw8y6PtCM92SkoNaEyLfaoUcIq/view?usp=drive_link)
 
 ---
 
