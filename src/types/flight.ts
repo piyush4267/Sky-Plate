@@ -7,7 +7,7 @@ export type PassengerSeat = {
   seatNumber: string;
   passengerName: string;
   mealType: string;
-  mealCategory: MealCategory;
+  mealCategory?: MealCategory;
   status: DietaryStatus;
   allergens: string[];
   notes?: string;
