@@ -5,6 +5,7 @@ import { LoginPage } from './components/LoginPage';
 import { PassengerPortal } from './components/PassengerPortal';
 import type { PassengerSeat, UserRole } from './types/flight';
 import { Wifi, WifiOff, Sparkles, LogOut, Leaf } from 'lucide-react';
+import logoImg from '/logo.png';
 
 const INITIAL_SEATS: PassengerSeat[] = [
   // Row 10
