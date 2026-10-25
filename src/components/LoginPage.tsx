@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import type { PassengerSeat } from '../types/flight';
 import { Key, User, ArrowRight } from 'lucide-react';
+import logoImg from '/logo.png';
 
 interface LoginPageProps {
   onCrewLogin: () => void;
@@ -52,8 +53,8 @@ export const LoginPage: React.FC<LoginPageProps> = ({ onCrewLogin, onPassengerLo
       <div className="flex flex-col items-center text-center mb-10">
         {/* Custom Logo Image placed directly above the badge */}
         <div className="w-20 h-20 rounded-3xl bg-white border-2 border-red-200/80 p-2.5 shadow-lg shadow-red-500/10 flex items-center justify-center mb-4 transition-transform hover:scale-105">
-          <img src="/logo.png" alt="SkyPlate Logo" className="w-full h-full object-contain" />
-        </div>
+  <img src={logoImg} alt="SkyPlate Logo" className="w-full h-full object-contain" />
+</div>
 
         <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-red-50 border border-red-200 text-red-700 text-xs font-semibold mb-4">
          SKYPLATE Aviation Intelligence
