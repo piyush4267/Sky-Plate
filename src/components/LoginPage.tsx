@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import type { PassengerSeat } from '../types/flight';
-import { Key, User, ArrowRight, ShieldCheck } from 'lucide-react';
+import { Key, User, ArrowRight } from 'lucide-react';
 
 interface LoginPageProps {
   onCrewLogin: () => void;
